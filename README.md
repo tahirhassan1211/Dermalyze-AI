@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/39415a95-bec6-4575-8ca3-204c38e16118
+Deployed Application link: https://dermalyze-ai-623795964840.asia-southeast1.run.app
 
 ## Run Locally
 
