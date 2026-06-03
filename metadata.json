@@ -1,0 +1,6 @@
+{
+  "name": "Dermalyze AI",
+  "description": "Multi-modal skin disease detection and analysis using Gemini AI. Supports image, voice, and text inputs for comprehensive diagnosis help.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["AI Analysis", "Multi-modal Input"]
+}
