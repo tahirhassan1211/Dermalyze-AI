@@ -1,5 +1,7 @@
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/tahirhassan1211/Dermalyze-AI/blob/main/d.png" />
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/tahirhassan1211/Dermalyze-AI/blob/main/d1.PNG" />
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/tahirhassan1211/Dermalyze-AI/blob/main/app_3.PNG" />
 </div>
 
 # Run and deploy your AI Studio app
